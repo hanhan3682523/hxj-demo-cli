@@ -13,3 +13,5 @@
 
 #### 7、执行npm adduser，创建npm账号
 #### 8、执行npm publish发布当前的项目 
+#### 9、发布完后，可以执行 npm install hxj-demo-cli -g 来安装命令行工具
+#### 10、安装完后，执行 hxj-demo-cli xxxx来创建脚手架（xxxx为目录名称）
