@@ -1,0 +1,25 @@
+{
+    "name": "hxj-demo-cli",
+    "version": "0.0.1",
+    "description": "my cli demo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "hxj-demo-cli": "./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hanhan3682523/hxj-demo-cli.git"
+    },
+    "keywords": [
+        "cli"
+    ],
+    "author": "飘落的枫叶",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hanhan3682523/hxj-demo-cli/issues"
+    },
+    "homepage": "https://github.com/hanhan3682523/hxj-demo-cli#readme"
+}
